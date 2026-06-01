@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "474193681656",
+    "project_id": "virtual-trading-app-d0ab1",
+    "storage_bucket": "virtual-trading-app-d0ab1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474193681656:android:7a2b5bc5e7527e0f59ef0d",
+        "android_client_info": {
+          "package_name": "com.example.virtual_trading_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVl96PH2nemhVoLKSAHQmUg_Y2kEffFfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

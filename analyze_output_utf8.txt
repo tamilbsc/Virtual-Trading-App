@@ -1,0 +1,18 @@
+﻿Analyzing virtual_trading_app...                                
+
+warning - Unused import: '../utils/responsive_utils.dart' - lib\screens\home_screen.dart:7:8 - unused_import
+  error - Undefined name 'portfolioValue' - lib\screens\portfolio_screen.dart:64:48 - undefined_identifier
+  error - Undefined name 'isPnLPositive' - lib\screens\portfolio_screen.dart:80:30 - undefined_identifier
+  error - Undefined name 'totalPnL' - lib\screens\portfolio_screen.dart:80:82 - undefined_identifier
+  error - Undefined name 'isPnLPositive' - lib\screens\portfolio_screen.dart:82:36 - undefined_identifier
+  error - Undefined name 'pieSections' - lib\screens\portfolio_screen.dart:95:19 - undefined_identifier
+  error - Undefined name 'pieSections' - lib\screens\portfolio_screen.dart:112:39 - undefined_identifier
+  error - Expected a method, getter, setter or operator declaration - lib\screens\portfolio_screen.dart:252:9 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\portfolio_screen.dart:252:10 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\portfolio_screen.dart:253:7 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\portfolio_screen.dart:253:8 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\portfolio_screen.dart:254:5 - expected_executable
+  error - Unexpected text ';' - lib\screens\portfolio_screen.dart:254:6 - unexpected_token
+  error - Expected a method, getter, setter or operator declaration - lib\screens\portfolio_screen.dart:255:3 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\portfolio_screen.dart:256:1 - expected_executable
+
